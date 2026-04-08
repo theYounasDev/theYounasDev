@@ -1,4 +1,4 @@
-## <h1>👋 I'm Younas Khan</h1>
+## <h1 align="center">👋 I'm Younas Khan</h1>
 
 <!--
 **theYounasDev/theYounasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
